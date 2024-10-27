@@ -1,0 +1,14 @@
+Folder Struktur für die App aufgebaut.
+
+.Net SDK 9 installiert
+	winget install Microsoft.DotNet.SDK.Preview
+
+https://mauiman.dev/maui_cli_commandlineinterface.html
+Dotnet Workload MAUI installiert
+	dotnet workload install maui
+
+MAUI-CHECK Tool installiert
+	dotnet tool install -g redth.net.MAUI.check
+
+MAUI Projekt für die Client Apps initialisiert
+	
