@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="D0MXxziKKUUWaV3meGwQ">
-    <mxGraphModel dx="1619" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="214.8" y="655" width="191.2" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FF0000;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="479.8" y="50" width="240.2" height="480" as="geometry" />
+          <mxGeometry x="479.8" y="230" width="240.2" height="300" as="geometry" />
         </mxCell>
         <mxCell id="euRJ8T99LZVBBIF3Om6C-8" value="THEIA Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;gradientColor=#97d077;arcSize=6;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="555" y="280" width="135" height="100" as="geometry" />
@@ -43,12 +43,6 @@
         <mxCell id="sqgVs4gP6B1ms_fcvTg1-13" value="REST&amp;nbsp;&lt;div&gt;API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="529" y="309" width="46" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-14" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#67AB9F;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.ms_sharepoint;" parent="1" vertex="1">
-          <mxGeometry x="555" y="177.00000000000006" width="44.8" height="44.8" as="geometry" />
-        </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#7F00FF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_teams;" parent="1" vertex="1">
-          <mxGeometry x="555" y="126.20000000000005" width="42" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="sqgVs4gP6B1ms_fcvTg1-16" value="" style="endArrow=blockThin;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=3;endFill=1;startFill=0;" parent="1" source="sqgVs4gP6B1ms_fcvTg1-9" target="sqgVs4gP6B1ms_fcvTg1-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="342.5" y="340" as="sourcePoint" />
@@ -59,28 +53,6 @@
           <mxGeometry x="-0.2301" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="-10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-18" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=1.008;exitY=0.305;exitDx=0;exitDy=0;strokeColor=#00CC00;endFill=1;exitPerimeter=0;" parent="1" source="sqgVs4gP6B1ms_fcvTg1-4" target="sqgVs4gP6B1ms_fcvTg1-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="200" as="sourcePoint" />
-            <mxPoint x="409" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="499" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-19" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.975;exitY=0.29;exitDx=0;exitDy=0;strokeColor=#00CC00;endFill=1;exitPerimeter=0;" parent="1" source="sqgVs4gP6B1ms_fcvTg1-4" target="sqgVs4gP6B1ms_fcvTg1-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329" y="100" as="sourcePoint" />
-            <mxPoint x="459" y="147" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="499" y="200" />
-              <mxPoint x="500" y="148" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-20" value="Teams/Sharepoint URI" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="339" y="181" width="131" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sqgVs4gP6B1ms_fcvTg1-22" value="Mobile Browser" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
           <mxGeometry x="389" y="410" width="65" height="52" as="geometry" />
@@ -129,24 +101,6 @@
             <mxPoint x="184.51999999999998" y="255.30000000000018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqgVs4gP6B1ms_fcvTg1-33" value="Helion" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="499" y="50" width="121" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="554.47" y="230" width="45.33" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-4" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=1.008;exitY=0.305;exitDx=0;exitDy=0;strokeColor=#00CC00;endFill=1;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209.47" y="241" as="sourcePoint" />
-            <mxPoint x="554.47" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="498.47" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-10" value="WebView URI" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="339" y="223" width="131" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" parent="1" vertex="1">
           <mxGeometry x="196" y="635" width="44" height="44" as="geometry" />
         </mxCell>
@@ -156,11 +110,10 @@
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-13" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" parent="1" vertex="1">
           <mxGeometry x="338.99999999999994" y="685" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeWidth=2;dashed=1;strokeColor=#0000FF;" parent="1" source="oEWgS2mLl9Gy5TmKG9aG-14" target="oEWgS2mLl9Gy5TmKG9aG-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Repos.svg;" parent="1" vertex="1">
-          <mxGeometry x="240" y="685" width="45" height="50" as="geometry" />
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeWidth=2;dashed=1;strokeColor=#0000FF;" parent="1" target="oEWgS2mLl9Gy5TmKG9aG-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="710" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;endArrow=blockThin;endFill=1;strokeWidth=2;" parent="1" source="oEWgS2mLl9Gy5TmKG9aG-17" target="oEWgS2mLl9Gy5TmKG9aG-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -174,15 +127,15 @@
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-18" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.html5" parent="1" vertex="1">
           <mxGeometry x="454" y="689" width="36" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" source="oEWgS2mLl9Gy5TmKG9aG-19" target="oEWgS2mLl9Gy5TmKG9aG-14" edge="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" source="oEWgS2mLl9Gy5TmKG9aG-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="710" as="targetPoint" />
+            <mxPoint x="240" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-19" value="Entwicklung" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="1" vertex="1">
           <mxGeometry x="80" y="695" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-24" value="Helion Mitarbeiter" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-24" value="Testbenutzer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
           <mxGeometry x="683.73" y="680" width="31.54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-30" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -209,7 +162,7 @@
             <mxPoint x="190" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-34" value="EntraID Helion" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/azure2/other/Entra_Identity.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-34" value="EntraID Baustellen" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/azure2/other/Entra_Identity.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="205.63" y="860" width="56.75" height="50.44" as="geometry" />
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-36" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;exitX=0.227;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.172;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;" parent="1" edge="1">
@@ -236,7 +189,7 @@
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-42" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="100" y="963.5" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-44" value="THEIA API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-44" value="Baustellen API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="200" y="1070" width="75.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.498;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;strokeColor=#0000CC;strokeWidth=2;" parent="1" source="oEWgS2mLl9Gy5TmKG9aG-29" target="oEWgS2mLl9Gy5TmKG9aG-44" edge="1">
@@ -245,7 +198,7 @@
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-47" value="HTTP/REST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="100" y="1072" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-48" value="Authentication:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Bearer &amp;lt;Token&amp;gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=7;fillColor=default;strokeColor=default;strokeWidth=1;arcSize=4;" parent="1" vertex="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-48" value="Authorization:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Bearer &amp;lt;Token&amp;gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=7;fillColor=default;strokeColor=default;strokeWidth=1;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="104" y="1040.44" width="71" height="29.56" as="geometry" />
         </mxCell>
         <mxCell id="U7N9SXbhseqTBn63kfvb-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
@@ -305,10 +258,10 @@
         <mxCell id="VPmXIIbAZy85nD-IhPbo-10" value="Entwicklung" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" parent="1" vertex="1">
           <mxGeometry x="833.96" y="695" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPmXIIbAZy85nD-IhPbo-11" value="Helion Mitarbeiter" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
+        <mxCell id="VPmXIIbAZy85nD-IhPbo-11" value="Endbenutzer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
           <mxGeometry x="1372.23" y="728" width="31.54" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VPmXIIbAZy85nD-IhPbo-13" value="Helion Mitarbeiter" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
+        <mxCell id="VPmXIIbAZy85nD-IhPbo-13" value="Endb&lt;span style=&quot;background-color: initial;&quot;&gt;enutzer&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
           <mxGeometry x="1372.23" y="625" width="31.54" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPmXIIbAZy85nD-IhPbo-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.app_store;fillColor=#000000;strokeColor=none" parent="1" vertex="1">
@@ -340,6 +293,9 @@
         </mxCell>
         <mxCell id="_5_uSRja2gGCHSwYMtUE-2" value="Production&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Deployment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="994.36" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5_uSRja2gGCHSwYMtUE-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="239" y="687.5" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

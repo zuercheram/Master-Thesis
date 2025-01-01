@@ -209,7 +209,7 @@
             <mxPoint x="190" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-34" value="EntraID Baustellen" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/azure2/other/Entra_Identity.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="oEWgS2mLl9Gy5TmKG9aG-34" value="EntraID Helion" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=11;image=img/lib/azure2/other/Entra_Identity.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="205.63" y="860" width="56.75" height="50.44" as="geometry" />
         </mxCell>
         <mxCell id="oEWgS2mLl9Gy5TmKG9aG-36" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=1;exitX=0.227;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.172;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;" parent="1" edge="1">
